@@ -2,7 +2,7 @@
 
 ## Getting started
 
-IAC implemted using terraform HCL
+Create AWS EC2 instance through Infrastructure as Code -IAC  implemted using terraform HCL
 
 ## Test and Deploy
 
